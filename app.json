@@ -14,7 +14,7 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/url-uploader-im-bot",
+  "success_url": "http://t.me/url_uploader_im_bot",
   "website": "https://github.com/Pencil77/url-uploader-im-bot",
   "repository": "https://github.com/Pencil77/url-uploader-im-bot",
   "env": {
